@@ -1,0 +1,19 @@
+{
+    "name": "povilas/skelbimai",
+    "description": "Dar vienas skelbimu portalas",
+    "authors": [
+        {
+            "name": "rovilas",
+            "email": "rovilas@inbox.lt"
+
+                    }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "app/code"
+        }
+    },
+    "require": {}
+    "require": {
+    }
+}
